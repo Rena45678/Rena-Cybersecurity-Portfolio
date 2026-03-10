@@ -10,6 +10,7 @@ I enjoy learning how threats work, investigating security incidents, and buildin
 <!-- Malware Analysis -->
 - <b>Malware Analysis</b>
   - <a href="https://github.com/Rena45678/Malware-analysis-project" target="_blank">Dynamic Malware Analysis project</a>
+  - <a href="https://github.com/Rena45678/redline-stealer-malware-analysis" target="_blank">RedLine Stealer Malware Analysis (ANY.RUN)</a>
 
 <!-- MITRE ATT&CK -->
 - <b>MITRE ATT&CK Framework</b>
