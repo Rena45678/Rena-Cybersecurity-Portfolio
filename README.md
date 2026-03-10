@@ -18,7 +18,7 @@ I enjoy learning how threats work, investigating security incidents, and buildin
 
 <!-- Digital Forensics -->
 - <b>Digital Forensics</b>
-  - <a href="">Full Digital Forensics Investigation Lab</a> 
+  - <a href="">Digital Forensics Investigation Lab</a> 
 
 <!-- Penetration Testing -->
 - <b>Penetration Testing (AWS)</b>
