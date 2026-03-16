@@ -18,7 +18,7 @@ I enjoy learning how threats work, investigating security incidents, and buildin
 
 <!-- Digital Forensics -->
 - <b>Digital Forensics</b>
-  - <a href=""> Digital Forensics Investigation Lab</a> 
+  - <a href="https://github.com/Rena45678/wes-mantooth-forensic-investigation" target="_blank">Wes Mantooth Digital Forensic Investigation</a>
 
 <!-- Penetration Testing -->
 - <b>Penetration Testing (AWS)</b>
