@@ -50,7 +50,8 @@ I enjoy learning how threats work, investigating security incidents, and buildin
  <h2>🏅 Certifications</h2>
 
 - <b>CompTIA Security+</b>  
-- <b>AWS Certified Cloud Practitioner</b> 
+- <b>AWS Certified Cloud Practitioner</b>
+- <b>PCEP – Certified Entry-Level Python Programmer (Python Institute)</b>
 
 <h2> Additional Accomplishments</h2>
 <ul>
