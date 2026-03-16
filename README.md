@@ -58,7 +58,7 @@ I enjoy learning how threats work, investigating security incidents, and buildin
   <li><b>Honors Student</b></li>
   <li><b>Member of the International Student Organization</b></li>
   <li><b>Member of the African Student Organization</b></li>
-  <li><b>GPA:</b> 3.95</li>
+  <li><b>GPA:</b> 3.96</li>
 </ul>
 
 <h2>🤝 Connect with Me</h2>
